@@ -1,4 +1,4 @@
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86d2c00d-1304-40ff-bd92-daadb4ceb214/demlpuk-fafd2422-9eed-4840-a541-8509d6f10ef9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg2ZDJjMDBkLTEzMDQtNDBmZi1iZDkyLWRhYWRiNGNlYjIxNFwvZGVtbHB1ay1mYWZkMjQyMi05ZWVkLTQ4NDAtYTU0MS04NTA5ZDZmMTBlZjkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wWkADGRMFPUkMzvDyifwKORmZrTqc4zqPuXitczbqgo)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Achmad Adzan Fausi</h1>
 <h3 align="center">A normally student from Indonesia</h3>
